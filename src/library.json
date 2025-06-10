@@ -1,0 +1,14 @@
+{
+  "name": "ACANFD_STM32",
+  "version": "1.0.0",
+  "description": "FDCAN lib for stm32h750vb",
+  "keywords": ["can", "fdcan", "stm32"],
+  "authors": [
+    {
+      "name": "skse"
+    }
+  ],
+  "frameworks": ["arduino"],
+  "platforms": ["ststm32"],
+  "license": "MIT"
+}
